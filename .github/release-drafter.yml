@@ -1,0 +1,10 @@
+change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
+template: |
+  ## Change log:
+  ### categories:
+  - __Title__: 🚀 Features
+    __label__: feature
+  - __Title__: 🐛 Bug Fixes
+    __label__: fix
+
+  $CHANGES

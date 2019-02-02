@@ -1,5 +1,5 @@
 # Gistbackup-app
-This app will actively backup gist files.
+This app will actively backup gist files.  
 
 Travis CI
 |---|
